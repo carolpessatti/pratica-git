@@ -1,0 +1,1 @@
+eu entendi que ele serve para fazermos vários comandos com o git commit ,git init,etc atraves dele podemos fazer arquivos e passa los para o git hub e deixa los salvos la para poder modificar los depois se quisermos  acresentar algo a mais.
